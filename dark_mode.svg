@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="460px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.cmd {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985" height="460" fill="#161b22" rx="15"/>
+<rect x="0" y="0" width="985" height="44" fill="#0d1117" rx="15"/>
+<rect x="0" y="22" width="985" height="22" fill="#0d1117"/>
+<circle cx="35" cy="22" r="6.5" fill="#ff5f57"/>
+<circle cx="63" cy="22" r="6.5" fill="#febc2e"/>
+<circle cx="91" cy="22" r="6.5" fill="#28c840"/>
+<text x="492" y="29" text-anchor="middle" fill="#8b949e">rogel@rogelrc: ~</text>
+<line x1="0" y1="44" x2="985" y2="44" stroke="#ffffff12" stroke-width="1"/>
+<text x="30" y="84" fill="#c9d1d9">
+<tspan>rogel@rogelrc: ~$</tspan><tspan class="cmd"> cat profile.txt</tspan>
+</text>
+<text x="30" y="128">
+<tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc">.....................</tspan><tspan x="452" class="value">C++, Java, JavaScript, Python, PHP, Rust, TypeScript</tspan>
+</text>
+<text x="30" y="172">
+<tspan class="cc">. </tspan><tspan class="key">Tech.Frontend</tspan><tspan class="cc">.............................</tspan><tspan x="452" class="value">Svelte, Next.js, Vue</tspan>
+</text>
+<text x="30" y="194">
+<tspan class="cc">. </tspan><tspan class="key">Tech.Backend</tspan><tspan class="cc">..............................</tspan><tspan x="452" class="value">Django, FastAPI, Flask, Spring Boot, Laravel, NestJS</tspan>
+</text>
+<text x="30" y="216">
+<tspan class="cc">. </tspan><tspan class="key">Tech.Desktop</tspan><tspan class="cc">..............................</tspan><tspan x="452" class="value">Tauri</tspan>
+</text>
+<text x="30" y="238">
+<tspan class="cc">. </tspan><tspan class="key">Data.SQL</tspan><tspan class="cc">..................................</tspan><tspan x="452" class="value">MySQL, PostgreSQL, SQLite</tspan>
+</text>
+<text x="30" y="260">
+<tspan class="cc">. </tspan><tspan class="key">Data.NoSQL</tspan><tspan class="cc">................................</tspan><tspan x="452" class="value">MongoDB, Redis, Upstash</tspan>
+</text>
+<text x="30" y="304">
+<tspan class="cc">. </tspan><tspan class="key">Experience.Ecommerce</tspan><tspan class="cc">......................</tspan><tspan x="452" class="value">E-commerce solutions (fadiar.com)</tspan>
+</text>
+<text x="30" y="326">
+<tspan class="cc">. </tspan><tspan class="key">Experience.Backend</tspan><tspan class="cc">........................</tspan><tspan x="452" class="value">Backend developer at the Faculty of Cybersecurity,</tspan>
+</text>
+<text x="30" y="348">
+<tspan class="cc">. </tspan><tspan class="cc">..........................................</tspan><tspan x="452" class="value">University of Computer Sciences (UCI)</tspan>
+</text>
+<text x="30" y="392">
+<tspan class="cc">. </tspan><tspan class="key">Contact.Email</tspan><tspan class="cc">.............................</tspan><tspan x="452" class="value">rogelprogrammer@gmail.com</tspan>
+</text>
+<text x="30" y="414">
+<tspan class="cc">. </tspan><tspan class="key">Contact.Discord</tspan><tspan class="cc">...........................</tspan><tspan x="452" class="value">discord.com/users/1136464673479340203</tspan>
+</text>
+</svg>

@@ -54,6 +54,22 @@ Freelancer building web applications and solving problems. Graduated from [Unive
 
 ---
 
+## Projects
+
+<a href="https://fadiar.com">
+  <img src="https://img.shields.io/badge/Fadiar-FF6B35?style=for-the-badge&logo=shopify&logoColor=white" alt="Fadiar">
+</a>
+<em>E-commerce platform</em>
+
+<br><br>
+
+<a href="https://mhp3csc.vercel.app/">
+  <img src="https://img.shields.io/badge/MHP3_Custom_Sets-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="MHP3 Custom Sets">
+</a>
+<em>Custom armor set builder for Monster Hunter Portable 3rd</em>
+
+---
+
 ## Stats
 
 <p align="center">

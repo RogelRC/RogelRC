@@ -73,9 +73,9 @@ Freelancer building web applications and solving problems. Graduated from [Unive
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=RogelRC&show_icons=true&theme=radical" alt="RogelRC">
+  <img src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=RogelRC&show_icons=true&theme=tokyonight" alt="RogelRC">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=RogelRC&layout=compact&theme=radical" alt="RogelRC">
+  <img src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=RogelRC&layout=compact&theme=tokyonight" alt="RogelRC">
 </p>

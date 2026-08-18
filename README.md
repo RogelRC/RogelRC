@@ -15,7 +15,7 @@
 
 ## About
 
-Freelancer building web applications and solving problems. Graduated from [Universidad de las Ciencias Informáticas](https://www.uci.cu/).
+Freelancer building web applications and solving problems. Graduated from [University of Computer Sciences](https://www.uci.cu/).
 
 ---
 

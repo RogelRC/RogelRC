@@ -21,7 +21,7 @@ Freelancer building web applications and solving problems. Graduated from [Unive
 
 ## Experience
 
-**Backend Developer** — Centro de Informatización de la Gestión Documental · [University of Computer Sciences](https://www.uci.cu/)
+**Backend Developer** — Document Management Informatization Center · [University of Computer Sciences](https://www.uci.cu/)
 <em>2024 – Present</em>
 
 <br>
